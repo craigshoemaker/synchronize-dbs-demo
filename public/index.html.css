@@ -1,0 +1,44 @@
+body.container {
+    padding: 1em;
+}
+
+.command {
+    padding: 1em;
+}
+
+.command i {
+    display: inline-block;
+    color: #777;
+    margin-right: 5px;
+}
+
+.is-half {
+    width: 50%;
+}
+
+.up {
+    margin-top:-8px;
+}
+
+.max-20h {
+    max-height: 20px;
+}
+
+.fa-save {
+    margin-right: 0;
+    color: #777;
+}
+
+.todo {
+    cursor: pointer;
+}
+
+.fa-trash-alt {
+    display: inline-block;
+    color: #fff;
+    padding-left: 5px;
+}
+
+.todo:hover .fa-trash-alt {
+    color: #777;
+}
